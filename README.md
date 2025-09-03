@@ -8,7 +8,6 @@ Bu layihə istifadəçilərin sağlamlıq məlumatlarına əsasən xəstəlik ri
 - **Risk Hesablama**: Machine Learning modelləri ilə xəstəlik riskini faizlə göstərir
 - **Explainability**: SHAP values ilə riskə ən çox təsir edən faktorları vizuallaşdırır
 - **Simulyasiya**: Müxtəlif parametrləri dəyişərək riskin necə dəyişəcəyini görün
-- **Chatbot**: Sağlamlıq tövsiyələri üçün interaktiv söhbət botu
 - **İstifadəçi Dostu İnterfeys**: Streamlit ilə hazırlanmış sadə və effektiv veb interfeys
 
 ## Quraşdırma
@@ -155,3 +154,4 @@ Analiz aşağıdakı nəticələri təqdim edir:
 - **Vizualizasiya**: Matplotlib, Seaborn, Plotly
 - **Web Interface**: Streamlit
 - **Dataset**: Pima Indians Diabetes Dataset
+
